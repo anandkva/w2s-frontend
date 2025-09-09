@@ -36,7 +36,7 @@ Before running this project, make sure you have:
 1.  Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/anandkva/w2s-frontend
 cd w2s-solutions
 
 ```
@@ -214,4 +214,4 @@ For support and questions:
 
 ----------
 
-**W2S Solutions** - Pushing the boundaries of what's possible in technology consulting.
+**W2S Solutions** - Task.
