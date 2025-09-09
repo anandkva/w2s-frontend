@@ -199,11 +199,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support and questions:
+For Any questions:
 
--   Email: support@w2ssolutions.com
--   Documentation: [API Docs](https://claude.ai/chat/your-api-docs-url)
--   Issues: [GitHub Issues](https://claude.ai/chat/your-repo-url/issues)
+-   Email: anand.kva00@gmail.com
+-   API Documentation: [API Docs](https://w2s-backend.onrender.com/swagger/index.html)
 
 ## Acknowledgments
 
